@@ -1,1 +1,1 @@
-A[linj](http://example.com "Title")
+A[link](http://example.com "Title")
